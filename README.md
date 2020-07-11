@@ -179,29 +179,29 @@ Task|File
 
 
 ---
-
-
 <p align="center">
-    <h2 align="center">By, Juan Sebastian Llano Gallego</h2>
+    <h2 align="center">Made by, David Arias Fuentes</h2>
       <p align="center">
-        <a href="https://twitter.com/llanoJS" target="_blank">
-            <img alt="twitter_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
+        <a href="https://twitter.com/DavidAriasFu" target="_blank">
+            <img alt="twitter_page" src="https://github.com/gedafu/readme-template/blob/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
-        <a href="https://www.linkedin.com/in/juansllano/" target="_blank">
-            <img alt="linkedin_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
+        <a href="https://www.linkedin.com/in/david-arias-fuentes-5b50951b0/" target="_blank">
+            <img alt="linkedin_page" src="https://github.com/gedafu/readme-template/blob/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
         </a>
-        <a href="https://medium.com/@juanllano93" target="_blank">
-            <img alt="medium_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
+        <a href="https://medium.com/@gedafu2005" target="_blank">
+            <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
       </p>
 </p>
 
-## Made with :heart: in
-<img src="https://www.holbertonschool.com/holberton-logo.png"
+<p align="center">
+   <img src="https://www.holbertonschool.com/holberton-logo.png"
      alt="Flow chart"
      style="float: left; margin-right: 10px;">
-
-__Holberton School - Colombia__
-__Foundations - System engineering & DevOps - Bash__
-
-__Febrary, 2020.__
+</p>
+<p align="center">
+<b>Holberton School - Colombia<b><br>
+</p>
+<p align="center">
+<b>June, 2020.<b>
+</p>
